@@ -5,6 +5,11 @@ html {
 }
 
 button {
-    border-radius: 25%;
+    background-color: #555555;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    margin: 0.25rem;
+    border-radius: 12%;
 }
 
